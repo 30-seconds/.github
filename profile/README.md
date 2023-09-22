@@ -6,4 +6,3 @@
 
 * Visit [our website](https://30secondsofcode.org) to view our snippet collection and find code snippets that suit your needs.
 * Learn more about our team on our [about page](https://www.30secondsofcode.org/about) or explore frequently asked questions on our [FAQ page](https://www.30secondsofcode.org/faq).
-* Follow us on [Twitter](https://twitter.com/30secondsofcode) for daily short code snippets and project updates.
